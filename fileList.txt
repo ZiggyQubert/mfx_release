@@ -1,3 +1,4 @@
+config.xml
 dojo/dojo.js
 dojo/OpenAjax.js
 dojo/resources/blank.gif
@@ -14,6 +15,7 @@ gridx/resources/images/loadingAnimation.gif
 gridx/resources/images/rowback.png
 gridx/resources/images/sprite.png
 gridx/resources/images/treeExpand_loading.gif
+icon.png
 index.html
 malifaux/resources/Browser.css
 malifaux/resources/cardDisplay.css
