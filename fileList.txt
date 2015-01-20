@@ -101,6 +101,7 @@ malifaux/resources/images/ModelCardBack_background.png
 malifaux/resources/images/ModelCardFront_background.png
 malifaux/resources/images/ModelCardFront_carrot.png
 malifaux/resources/images/ModelCardFront_cost.png
+malifaux/resources/images/ModelCardFront_cost_transparency.png
 malifaux/resources/images/ModelCardFront_factionSeal.png
 malifaux/resources/images/ModelCardFront_foreground.png
 malifaux/resources/images/ModelCardFront_portrate.png
