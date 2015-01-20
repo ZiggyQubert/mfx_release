@@ -95,11 +95,11 @@ malifaux/resources/images/list/UpgradeEven_border.png
 malifaux/resources/images/list/UpgradeOdd_background.png
 malifaux/resources/images/list/UpgradeOdd_border.png
 malifaux/resources/images/MalifauxTitleLogo.png
+malifaux/resources/images/Menu_border.png
+malifaux/resources/images/MenuIcon.png
 malifaux/resources/images/ModelCardBack_background.png
-malifaux/resources/images/ModelCardBack_comp.png
 malifaux/resources/images/ModelCardFront_background.png
 malifaux/resources/images/ModelCardFront_carrot.png
-malifaux/resources/images/ModelCardFront_comp.png
 malifaux/resources/images/ModelCardFront_cost.png
 malifaux/resources/images/ModelCardFront_factionSeal.png
 malifaux/resources/images/ModelCardFront_foreground.png
@@ -115,7 +115,6 @@ malifaux/resources/images/SelectCheck.png
 malifaux/resources/images/SelectOption_border.png
 malifaux/resources/images/ShowSortButton_background.png
 malifaux/resources/images/Upgrade_carrot.png
-malifaux/resources/images/UpgradeCard_comp.png
 malifaux/resources/portraits/Abomination.jpg
 malifaux/resources/portraits/AbuelaOrtega.jpg
 malifaux/resources/portraits/Alp.jpg
